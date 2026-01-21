@@ -30,9 +30,3 @@ The file `shanghai_dataset_metadata.csv` contains the necessary information to r
 
 Researchers can use the `tile_x`, `tile_y`, and `zoom` columns provided in the CSV to retrieve images via the **Tianditu API**.
 
-
-## License
-
-This dataset metadata is released for **Academic and Research Purposes Only**.
-
----
