@@ -21,8 +21,8 @@ The file `shanghai_dataset_metadata.csv` contains the necessary information to r
 | `id` | Unique identifier for the patch (0-9545). |
 | `tile_x` | Web Mercator tile X coordinate. |
 | `tile_y` | Web Mercator tile Y coordinate. |
-| `zoom` | Zoom level (fixed at 18). |
-| `filename` | Suggested filename for the image. |
+| `zoom` | Zoom level. |
+| `filename` | Filename for the image. |
 | `lat_nw` | Latitude of the North-West corner of the patch. |
 | `lon_nw` | Longitude of the North-West corner of the patch. |
 
